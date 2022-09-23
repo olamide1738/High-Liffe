@@ -19,7 +19,7 @@ function Footer() {
             <div className="container">
             <nav class=" navigation navbar navbar-expand-lg bg-light">
                 <div class="container-fluid">
-                     <img class="nav-img" src="./images/logo.jpeg"/><button class="navbar-toggler" type="button"
+                     <img class="nav-img" src="./images/logo.jpeg" alt="high-life"/><button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                         aria-label="Toggle navigation">
    

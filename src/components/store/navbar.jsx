@@ -3,7 +3,7 @@ import React from "react";
 function Navbar(){
     return <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand logo-img" href="#"><img src="./images/logo.jpeg"></img></a>
+            <a class="navbar-brand logo-img" href="#"><img src="./images/logo.jpeg" alt="profile"></img></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -41,10 +41,10 @@ function Navbar(){
                     </li>
                    
                     <li class="nav-item nav-item1">
-                        <img class="profile" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"></img>
+                        <img class="profile" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="profile"></img>
                     </li>
                     <li class="nav-item nav-item1">
-                        <img class="shopping" src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png"></img>
+                        <img class="shopping" src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" alt="profile"></img>
                     </li>
                     <li class="nav-item nav-item1">
                         <button type="button" class="btn btn-success">Sign up/Login</button>
