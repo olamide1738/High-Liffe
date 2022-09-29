@@ -3,6 +3,7 @@ import Grid from "./components/grid1";
 import Highlife from "./components/highlife";
 import Niara from "./components/niara";
 import Store from "./components/store"
+import {BrowserRouter as Router, Route, Swotch} from "react-router-dom";
 
 function App() {
     let component;
